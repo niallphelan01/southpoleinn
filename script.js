@@ -1,4 +1,4 @@
-var endDate = new Date("Jan 01, 2023 00:00:00").getTime();
+var endDate = new Date("Jan 01, 2024 00:00:00").getTime();
 
 var timer = setInterval(function() {
 
@@ -26,7 +26,7 @@ var timer = setInterval(function() {
     
     } else {
 
-        document.getElementById("timer").innerHTML = "Happy New Year to you and yours, All the best for 2023";
+        document.getElementById("timer").innerHTML = "Happy New Year to you and yours, All the best for 2024";
     
     }
     
